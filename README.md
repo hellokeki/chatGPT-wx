@@ -3,15 +3,17 @@
 
 项目演示地址：
 
-static/WechatIMG548.jpeg
+<img alt="WechatIMG548.jpeg" src="../../WechatIMG548.jpeg"/>
 
 技术爱好者交流群：
 
-static/WechatIMG549.jpeg
+<img alt="WechatIMG549.jpeg" src="static/WechatIMG549.jpeg"/>
 
 需求定制联系：
 
-static/WechatIMG3549.jpeg
+<img alt="WechatIMG550.jpeg" src="static/WechatIMG3549.jpeg"/>
+
+
 
 --------------------------------------------------------------------
 api说明
