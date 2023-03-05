@@ -3,11 +3,11 @@
 
 项目演示地址：
 
-<img alt="WechatIMG548.jpeg" src="static/WechatIMG548.jpeg"/>
+https://raw.githubusercontent.com/hellokeki/chatGPT-wx-main/master/static/WechatIMG548.jpeg
 
 技术爱好者交流群：
 
-<img alt="WechatIMG549.jpeg" src="static/WechatIMG549.jpeg"/>
+https://raw.githubusercontent.com/hellokeki/chatGPT-wx-main/master/static/WechatIMG549.jpeg
 
 
 需求定制联系：
