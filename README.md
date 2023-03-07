@@ -1,16 +1,16 @@
 # chatGPT-wx
 关于由openAI公司发布的大型预训练语言模型chatGPT3.5接入微信小程序
 
-项目演示地址：
+项目演示地址：微信小程序：智能AI聊天工具
 
 https://raw.githubusercontent.com/hellokeki/chatGPT-wx-main/master/static/WechatIMG548.jpeg
 
-技术爱好者交流群：
+技术爱好者交流群：QQ：2350511195
 
 https://raw.githubusercontent.com/hellokeki/chatGPT-wx-main/master/static/WechatIMG549.jpeg
 
 
-需求定制联系：
+需求定制联系： 微信：youjunqifei
 
 <img alt="WechatIMG550.jpeg" src="static/WechatIMG3549.jpeg"/>
 
