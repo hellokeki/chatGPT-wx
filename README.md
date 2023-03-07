@@ -3,15 +3,16 @@
 
 项目演示地址：微信小程序：智能AI聊天工具
 
-<img alt="WechatIMG548.jpeg" src="static/WechatIMG548.jpeg"/>
+<a href="https://imgse.com/i/ppe03b4"><img src="https://s1.ax1x.com/2023/03/08/ppe03b4.jpg" alt="ppe03b4.jpg" border="0" /></a>
 
-技术爱好者交流群：qq:164560742
+技术爱好者交流群：
 
-<img alt="WechatIMG549.jpeg" src="static/WechatIMG549.jpeg"/>
+<a href="https://imgse.com/i/ppe0Dqe"><img src="https://s1.ax1x.com/2023/03/08/ppe0Dqe.jpg" alt="ppe0Dqe.jpg" border="0" /></a>
 
-需求定制联系：wx:youjunqifei
 
-<img alt="WechatIMG550.jpeg" src="static/WechatIMG3549.jpeg"/>
+需求定制联系： 微信：youjunqifei
+
+<a href="https://imgse.com/i/ppe0yad"><img src="https://s1.ax1x.com/2023/03/08/ppe0yad.jpg" alt="ppe0yad.jpg" border="0" /></a>
 
 
 
