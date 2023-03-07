@@ -3,7 +3,7 @@
 
 项目演示地址：微信小程序：智能AI聊天工具
 
-https://raw.githubusercontent.com/hellokeki/chatGPT-wx-main/master/static/WechatIMG548.jpeg
+<a href="https://imgse.com/i/ppe03b4"><img src="https://s1.ax1x.com/2023/03/08/ppe03b4.jpg" alt="ppe03b4.jpg" border="0" /></a>
 
 技术爱好者交流群：QQ：2350511195
 
