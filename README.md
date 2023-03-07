@@ -7,12 +7,12 @@
 
 技术爱好者交流群：QQ：2350511195
 
-https://raw.githubusercontent.com/hellokeki/chatGPT-wx-main/master/static/WechatIMG549.jpeg
+<a href="https://imgse.com/i/ppe0Dqe"><img src="https://s1.ax1x.com/2023/03/08/ppe0Dqe.jpg" alt="ppe0Dqe.jpg" border="0" /></a>
 
 
 需求定制联系： 微信：youjunqifei
 
-<img alt="WechatIMG550.jpeg" src="static/WechatIMG3549.jpeg"/>
+<a href="https://imgse.com/i/ppe0yad"><img src="https://s1.ax1x.com/2023/03/08/ppe0yad.jpg" alt="ppe0yad.jpg" border="0" /></a>
 
 
 --------------------------------------------------------------------
