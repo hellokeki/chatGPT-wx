@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3faf0ea1-99e9-440f-b649-5f3870a7be92" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Md4uafqHc9PslWj0IJI704r4kY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/mac/Desktop/视频/chatGPT-wx-main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "advanced.settings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="3faf0ea1-99e9-440f-b649-5f3870a7be92" name="变更" comment="" />
+      <created>1678084354496</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678084354496</updated>
+      <workItem from="1678084355363" duration="1043000" />
+      <workItem from="1678203905102" duration="576000" />
+      <workItem from="1678205076896" duration="26000" />
+      <workItem from="1678205111371" duration="23000" />
+      <workItem from="1678208311750" duration="3243000" />
+      <workItem from="1678273099038" duration="60000" />
+      <workItem from="1678286748964" duration="305000" />
+    </task>
+    <task id="LOCAL-00001" summary="基于openAI chatGPT(gpt-3.5-turbo)大型预训练语言模型的微信小程序AI智能助手,速度快，低延时">
+      <created>1678208832997</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678208832997</updated>
+    </task>
+    <task id="LOCAL-00002" summary="基于openAI chatGPT(gpt-3.5-turbo)大型预训练语言模型的微信小程序AI智能助手,速度快，低延时">
+      <created>1678286850826</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678286850826</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="基于openAI chatGPT(gpt-3.5-turbo)大型预训练语言模型的微信小程序AI智能助手,速度快，低延时" />
+    <option name="LAST_COMMIT_MESSAGE" value="基于openAI chatGPT(gpt-3.5-turbo)大型预训练语言模型的微信小程序AI智能助手,速度快，低延时" />
+  </component>
+</project>
